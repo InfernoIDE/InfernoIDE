@@ -1,2 +1,2 @@
 # InfernoIDE
-Inferno integrated development environment for programming and language work
+Inferno integrated development environment for programming and languages work: expand, not contract!&*
