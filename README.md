@@ -1,2 +1,2 @@
 # InfernoIDE
-Inferno IDE for programming and language work
+Inferno integrated development environment for programming and language work
